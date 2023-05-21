@@ -9,6 +9,8 @@ The advantages are:
 5. Reports.
 
 Approach:
+
+
 ![2](https://github.com/chandanaNukala/smartAttendance/assets/66661365/b2b75107-a628-4c1f-ac12-cb318fd70103)
 
 
